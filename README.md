@@ -31,7 +31,7 @@ Já na configuração do servidor foi necessário usar alguns softwares descrito
   - Instalação e configuração do Postgresql
   - Configuração do WSGI e Apache
   
-## [Recursos Usados](#recursos-usados)
+## Recursos Usados
 
   * [Redis](https://redis.io/)
   * [PostgreSQL](https://www.postgresql.org/)
